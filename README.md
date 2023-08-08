@@ -4,3 +4,8 @@ Top Customers: By analyzing customer purchase history and expenditure, I identif
 Revenue by Country: By aggregating sales data and analyzing customer locations, I determined the top revenue-generating countries for our digital music store. This insight enables us to focus our marketing efforts, localization strategies, and customer support resources on these regions to maximize revenue potential.
 
 Popular Genres: By examining customer preferences and purchase patterns, I identified the most popular music genres among our customer base. This information can inform our content curation strategy, promotional campaigns, and collaborations with artists in those genres to cater to customer demands effectively.
+
+# Basic Level Questions
+![Music Store Database Text Easy 1 jpg](https://github.com/Abhishekmankar119/Digital-Music-Store-Data-Analysis-Using-SQL/assets/132440202/3e1ab668-fee8-47ec-b914-6872c48b9189)
+
+
